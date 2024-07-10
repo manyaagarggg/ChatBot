@@ -28,7 +28,7 @@ body {
   }
 
   message-container {
-    background: #9aa171;
+    background: #f8e0e0;
     width: 100%;
     display: flex;
     align-items: center;
@@ -104,6 +104,8 @@ body {
   .send-icon {
     margin-right: 10px;
     cursor: pointer;
+    height: 50px;
+    background-color: rgb(84, 137, 149);
   }
   
   #input-field:focus {
